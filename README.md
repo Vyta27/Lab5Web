@@ -37,9 +37,10 @@ function validasi() {
     alert("Form berhasil dikirim!");
     return true;
 }
-</script>'''
+</script>
 
 
 
-#output
-<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/530ad291-7805-406d-ae07-1027667f743d" />
+Output
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user attachments/assets/530ad291-7805-406d-ae07-1027667f743d" />
