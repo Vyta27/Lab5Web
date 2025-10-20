@@ -33,6 +33,14 @@ Kelas  : TI.24.A2
 - prompt() membuka kotak dialog input; nilai yang diketik disimpan ke variabel nama.
 - Kita menampilkan nilai itu menggunakan document.write untuk menegaskan flow input → output.
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/2cc8d136-dff4-4e01-9002-a484b68bd8c8" />
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/eb39ac73-c2e1-46f9-a9ba-afb1c7026daf" />
+
+- Fungsi test menerima dua argumen (val1, val2) dan menampilkan hasil berbagai operator.
+- Tombol memanggil test(9,4) untuk demo nilai tetap (9 dan 4).
+
+
+
 
   
 
