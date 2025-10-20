@@ -7,8 +7,6 @@ Kelas  : TI.24.A2
 # Pernyataan dan Tugas
 1. Buat script untuk melakukan validasi pada isian form.
 
-  ### 💻 Validasi Form Input
-
 ```html
 <form name="validasiForm" onsubmit="return validasi()">
     <p>Nama: <input type="text" name="nama" placeholder="Masukkan nama Anda"></p>
