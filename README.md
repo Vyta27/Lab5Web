@@ -23,4 +23,9 @@ Kelas  : TI.24.A2
 - alert () digunakan untuk menampilkan pesan peringatan (popup)
 - pesan akan muncul sebelum halaman tampil penuh
 
+<img width="1920" height="569" alt="Image" src="https://github.com/user-attachments/assets/b3ca458e-b36d-48b0-b722-7b9d70cc55fc" />
+
+- Menulis dua string berbeda; < br > memberi baris baru.
+- Memperlihatkan bahwa document.write bisa dipanggil berkali-kali dan teks akan berlanjut di dokumen.
+
 
