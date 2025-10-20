@@ -28,6 +28,7 @@ Kelas  : TI.24.A2
 - Menulis dua string berbeda; < br > memberi baris baru. 
 - Memperlihatkan bahwa document.write bisa dipanggil berkali-kali dan teks akan berlanjut di dokumen.
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/c97686f3-27df-4689-a716-0b1bd9458446" />
 <img width="1919" height="823" alt="Image" src="https://github.com/user-attachments/assets/904e9fdb-1334-4bef-93f1-75a8b0f9d5d2" />
 
 - prompt() membuka kotak dialog input; nilai yang diketik disimpan ke variabel nama.
