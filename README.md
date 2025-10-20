@@ -72,6 +72,12 @@ Kelas  : TI.24.A2
 - document.bgColor dan document.fgColor adalah cara lama mengatur background/text color; masih bekerja di banyak browser tapi bukan praktik modern.
 - document.lastModified menampilkan metadata waktu file terakhir diubah.
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/810537cc-8373-41dd-9ba1-8ef2b48678f4" />
+
+- Fungsi hitung(ele) menerima parameter ele (checkbox yang diklik).
+- Mengambil nilai saat ini dari input total, mengonversi ke integer (atau 0 jika kosong).
+- Jika checkbox dicentang → tambahkan value-nya; jika dibuang centang → kurangi.
+- Menuliskan kembali ke total.
 
 
 
