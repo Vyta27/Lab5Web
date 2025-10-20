@@ -13,3 +13,14 @@ Kelas  : TI.24.A2
 
 # Laporan Praktikum
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/8aca975f-55e4-47bd-99d8-bdd92e389488" />
+
+- document.write () : menampilkan teks langsung di halaman
+- console.log () : menampilkan pesan di developer console, berguna untuk debugging.
+  
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e3eb523c-81a4-4c14-9f34-e9f027d7fe9f" />
+
+- alert () digunakan untuk menampilkan pesan peringatan (popup)
+- pesan akan muncul sebelum halaman tampil penuh
+
+
