@@ -41,3 +41,5 @@ Kelas  : TI.24.A2
         return true;
     }
 </script>
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/530ad291-7805-406d-ae07-1027667f743d" />
