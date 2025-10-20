@@ -25,7 +25,7 @@ Kelas  : TI.24.A2
 
 <img width="1920" height="569" alt="Image" src="https://github.com/user-attachments/assets/b3ca458e-b36d-48b0-b722-7b9d70cc55fc" />
 
-- Menulis dua string berbeda; < br > memberi baris baru.
+- Menulis dua string berbeda; < br > memberi baris baru. 
 - Memperlihatkan bahwa document.write bisa dipanggil berkali-kali dan teks akan berlanjut di dokumen.
 
 <img width="1919" height="823" alt="Image" src="https://github.com/user-attachments/assets/904e9fdb-1334-4bef-93f1-75a8b0f9d5d2" />
