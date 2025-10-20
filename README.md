@@ -41,6 +41,15 @@ Kelas  : TI.24.A2
 - Fungsi test menerima dua argumen (val1, val2) dan menampilkan hasil berbagai operator.
 - Tombol memanggil test(9,4) untuk demo nilai tetap (9 dan 4).
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/583ffeba-6f71-4eb8-910d-3f6fb2ab93ce" />
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/c917085c-1918-4068-870d-f59e98ff2fdf" />
+
+- Menentukan logika percabangan (lulus / tidak lulus) berdasarkan input nilai
+- prompt meminta nilai, lalu if menentukan string hasil.
+- Ditampilkan ke halaman dengan document.write.
+
+
 
 
 
