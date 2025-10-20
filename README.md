@@ -49,6 +49,10 @@ Kelas  : TI.24.A2
 - prompt meminta nilai, lalu if menentukan string hasil.
 - Ditampilkan ke halaman dengan document.write.
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e90ebada-d2d5-41f7-940a-ad77b531c1aa" />
+
+- Menunjukkan alternatif switch untuk multi-cabang berdasarkan nilai input.
+
 
 
 
