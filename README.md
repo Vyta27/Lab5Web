@@ -61,6 +61,17 @@ Kelas  : TI.24.A2
   kirim.
 - Hasil dituliskan ke input T2 agar siswa melihat perubahan programatis di form.
 
+<img width="1917" height="946" alt="Image" src="https://github.com/user-attachments/assets/21efcb38-935d-40b0-87b0-b50275c82550" />
+
+<img width="1919" height="941" alt="Image" src="https://github.com/user-attachments/assets/827df3be-95a2-4dc2-9d1e-243d2896baef" />
+
+<img width="1919" height="942" alt="Image" src="https://github.com/user-attachments/assets/569bcf69-e886-4c46-9359-7ec04d7ce0fb" />
+
+<img width="1912" height="948" alt="Image" src="https://github.com/user-attachments/assets/512207f9-5e46-44d5-bd5b-d9e58a804333" />
+
+- document.bgColor dan document.fgColor adalah cara lama mengatur background/text color; masih bekerja di banyak browser tapi bukan praktik modern.
+- document.lastModified menampilkan metadata waktu file terakhir diubah.
+
 
 
 
