@@ -37,7 +37,7 @@ function validasi() {
     alert("Form berhasil dikirim!");
     return true;
 }
-</script>
+</script>.
 
 
 
