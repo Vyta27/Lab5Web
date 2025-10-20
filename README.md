@@ -40,7 +40,7 @@ Kelas  : TI.24.A2
         alert("Form berhasil dikirim!");
         return true;
     }
-</script>
+</script>---
 
 
 #output
