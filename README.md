@@ -55,6 +55,14 @@ Kelas  : TI.24.A2
 
 
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/2180d637-2eeb-48e6-8f99-cedfeba24f04" />
+
+- document.kirim.T1.value adalah cara klasik mengambil nilai dari form bernama kirim.
+  kirim.
+- Hasil dituliskan ke input T2 agar siswa melihat perubahan programatis di form.
+
+
+
 
 
   
